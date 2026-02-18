@@ -1,4 +1,3 @@
-# Pizza-Sales-Data-Analysis-using-SQL
 # 🍕 Pizza Sales Analysis | SQL Data Analyst Project
 ## 📌 Project Summary
 
